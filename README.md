@@ -1,4 +1,5 @@
 name and structure of the database imagini
+![image](https://user-images.githubusercontent.com/76125731/124606858-f81b2300-de75-11eb-900e-04483e8a1f19.png)
 ![image](https://user-images.githubusercontent.com/76125731/124605487-a1611980-de74-11eb-9704-afc618bfa6a0.png)
 ![image](https://user-images.githubusercontent.com/76125731/124605519-aaea8180-de74-11eb-8f18-834a60ddb0e7.png)
 ![image](https://user-images.githubusercontent.com/76125731/124605562-b50c8000-de74-11eb-84c4-97e77d9d29b5.png)
